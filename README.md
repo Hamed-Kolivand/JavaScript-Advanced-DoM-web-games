@@ -29,6 +29,3 @@
  📫 ارتباط با من
 - [گیت‌هاب](https://github.com/Hamed-Kolivand)
 - [پونیشا](https://ponisha.ir/profile/hamedkolivand)
-
-- [گیت‌هاب](https://github.com/Hamed-Kolivand)
-- [پونیشا](https://ponisha.ir/profile/hamedkolivand)
